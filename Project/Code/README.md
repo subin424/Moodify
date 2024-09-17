@@ -1,1 +1,1 @@
-"It is Storage space for source code files."
+"It is storage space for source code files."
