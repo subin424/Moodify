@@ -1,2 +1,2 @@
 # Moodify
-It's a project that recommends music based on emotions.
+"It's a project that recommends music based on emotions."
