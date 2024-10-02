@@ -9,3 +9,10 @@ Epoch 3, Average Loss: 0.24882442383643458
 Epoch 4, Average Loss: 0.20978182466591105
 
 Epoch 5, Average Loss: 0.19830214889610515
+
+Epoch 6, Average Loss: 0.1815813392510309
+
+Epoch 7, Average Loss: 0.18012284750447555
+
+
+
