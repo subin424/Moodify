@@ -22,6 +22,46 @@ Epoch 9, Average Loss: 0.15759806499323425
 
 Epoch 10, Average Loss: 0.14157103886827826
 
+Epoch 1, Average Loss: 0.3368552190990284
+
+Epoch 2, Average Loss: 0.31049206167802046
+
+Epoch 3, Average Loss: 0.2877451847682054
+
+Epoch 4, Average Loss: 0.27141706722563713
+
+Epoch 5, Average Loss: 0.2538142489462063
+
+Epoch 6, Average Loss: 0.23975558861576277
+
+Epoch 7, Average Loss: 0.21996178216804033
+
+Epoch 8, Average Loss: 0.20560302728808474
+
+Epoch 9, Average Loss: 0.1952853597614957
+
+Epoch 10, Average Loss: 0.18317735955204772
+
+Epoch 1, Average Loss: 0.3368552190990284
+
+Epoch 2, Average Loss: 0.31049206167802046
+
+Epoch 3, Average Loss: 0.2877451847682054
+
+Epoch 4, Average Loss: 0.27141706722563713
+
+Epoch 5, Average Loss: 0.2538142489462063
+
+Epoch 6, Average Loss: 0.23975558861576277
+
+Epoch 7, Average Loss: 0.21996178216804033
+
+Epoch 8, Average Loss: 0.20560302728808474
+
+Epoch 9, Average Loss: 0.1952853597614957
+
+Epoch 10, Average Loss: 0.18317735955204772
+
 ## 검증 데이터
 
 Epoch 1, Average Loss: 0.8524947265783945
