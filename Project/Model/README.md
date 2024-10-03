@@ -1,5 +1,7 @@
 # 모델 학습 및 평가를 기록한 파일(.png)
 
+# 훈련 데이터 
+
 Epoch 1, Average Loss: 0.26412892955191
 
 Epoch 2, Average Loss: 0.257930752766483
@@ -20,3 +22,34 @@ Epoch 9, Average Loss: 0.15759806499323425
 
 Epoch 10, Average Loss: 0.14157103886827826
 
+# 검증 데이터
+
+Epoch 1, Average Loss: 0.8524947265783945
+
+Epoch 2, Average Loss: 0.8025140005281601
+
+Epoch 3, Average Loss: 0.7628824899251434
+
+Epoch 4, Average Loss: 0.7133495132813509
+
+Epoch 5, Average Loss: 0.6775963940154547
+
+Epoch 6, Average Loss: 0.6345184799926035
+
+Epoch 7, Average Loss: 0.5975399976489187
+
+Epoch 8, Average Loss: 0.5619347088638393
+
+Epoch 9, Average Loss: 0.5271654440753761
+
+Epoch 10, Average Loss: 0.49690628428568784
+
+Epoch 11, Average Loss: 0.46837868755576256
+
+Epoch 12, Average Loss: 0.4335800588302229
+
+Epoch 13, Average Loss: 0.405765099515175
+
+Epoch 14, Average Loss: 0.38177803792487613
+
+Epoch 15, Average Loss: 0.36142793263512096
