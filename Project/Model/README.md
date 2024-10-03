@@ -1,6 +1,6 @@
 # 모델 학습 및 평가를 기록한 파일(.png)
 
-## 훈련 데이터 
+## 훈련 데이터 1
 
 Epoch 1, Average Loss: 0.26412892955191
 
@@ -41,6 +41,8 @@ Epoch 8, Average Loss: 0.20560302728808474
 Epoch 9, Average Loss: 0.1952853597614957
 
 Epoch 10, Average Loss: 0.18317735955204772
+
+# 훈련 데이터 2
 
 Epoch 1, Average Loss: 0.3368552190990284
 
