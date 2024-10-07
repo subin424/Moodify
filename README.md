@@ -16,6 +16,9 @@
 - 총 9만개가 넘는 감정 정보 중 일부를 sample로 진행
 - 훈련 데이터와 검증 데이터 교차
 
+# 사용한 모델
+<https://github.com/monologg/KoELECTRA>
+
 # 모델 학습
 - 전처리된 데이터를 기반으로 진행함
 - 하이퍼파라미터 설정(epochs = 10, batch_size = 128)
