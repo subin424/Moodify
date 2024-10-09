@@ -102,3 +102,6 @@ ___
 ___
 ### 케이스 1 
 ![실행 결과(2)](https://github.com/subin424/Moodify/blob/main/Project/%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC.PNG)
+___
+### 케이스 2
+![실행 결과(3)](https://github.com/subin424/Moodify/blob/main/Project/%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC2.PNG)
