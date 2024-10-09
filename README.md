@@ -34,7 +34,7 @@
 4. **감정 기반 음악 추천**: 분석된 주요 감정에 맞는 유튜브 플레이리스트를 브라우저에서 실행합니다.
 
 ___
-### 데이터 세트
+## 데이터 세트
 - AI HUB에서 가져옴
 - 감정 정보가 포함된 단발성, 연속성 대화 dataset
 - 총 9만개가 넘는 감정 정보 중 일부를 sample로 진행
@@ -42,7 +42,7 @@ ___
 - 총 7가지의 감정 포함
 
 ___
-### 데이터 전처리
+## 데이터 전처리
 - 의미가 전달되지 않는 불용어(STOPWORDS) 제거
 - 각종 특수문자 및 문장부호 제거
 - 공백, 중복 데이터 제거
@@ -50,7 +50,7 @@ ___
 - 각 감정의 수 균형 맞춤
 
 ___
-### 모델 학습
+## 모델 학습
 
 - 전처리 데이터 기반으로 진행함
 - 기본적인 하이퍼파라미터 설정(평균적으로 epochs = 5-10, batch_size = 128 lr = 2e-5)
@@ -58,12 +58,12 @@ ___
 - 검증 데이터를 교차하여 진행 (과적합 주의)
 
 ___
-### 학습한 모델 파일
+## 학습한 모델 파일
 
 [모델 파일 다운로드](https://drive.google.com/file/d/199GPJtUJxUdBr4tm1XawzbgkKXmv-RLh/view?usp=sharing)
 
 ___
-### 모델 평가
+## 모델 평가
 
 - 초기 Loss : 1.2 ~ 1.5 (7/03)
 - 초기 F1 score : 0.4 ~ 0.5 (7/03)
@@ -78,22 +78,22 @@ ___
 최종 목표 => F1-Score 0.7 - 0.75
 
 ___
-### 모델 학습 및 평가 결과
+## 모델 학습 및 평가 결과
 ![F1 Score 변화(2)](https://github.com/subin424/Moodify/blob/main/Project/Model/F1-score(2).PNG)
  ![Moodify 실행 화면](https://github.com/subin424/Moodify/blob/main/Project/Model/TR3.PNG)
 ___
-### 모델 학습 Log
+## 모델 학습 Log
 
  <https://github.com/subin424/Moodify/blob/main/Project/Model/README.md>
 
 ___
-### 메인 코드 실행 방법
+## 메인 코드 실행 방법
 1. 모델 경로와 카카오톡 대화 파일 경로를 설정합니다.
 2. GUI에서 "분석 시작" 버튼을 클릭해 감정 분석을 수행합니다.
 3. 감정에 맞는 유튜브 음악이 브라우저에서 자동으로 재생됩니다.
 
 ___
-### 요구 사항
+## 요구 사항
 - Python 3.x
 - transformers
 - torch
@@ -102,11 +102,11 @@ ___
 - pandas
 
 ___
-### 메인 코드 실행 결과
+## 메인 코드 실행 결과
 ![Moodify 실행 결과](https://github.com/subin424/Moodify/blob/main/Project/Moodify.png)
 ___
-### 케이스 1 
+## 케이스 1 
 ![실행 결과(2)](https://github.com/subin424/Moodify/blob/main/Project/%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC.PNG)
 ___
-### 케이스 2
+## 케이스 2
 ![실행 결과(3)](https://github.com/subin424/Moodify/blob/main/Project/%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC2.PNG)
