@@ -77,6 +77,10 @@ ___
 
  <https://github.com/subin424/Moodify/blob/main/Project/Model/README.md>
 
+### 학습한 모델 파일
+
+[모델 파일 다운로드](https://drive.google.com/file/d/199GPJtUJxUdBr4tm1XawzbgkKXmv-RLh/view?usp=sharing)
+
 
  ![Moodify 실행 화면](https://github.com/subin424/Moodify/blob/main/Project/Model/TR3.PNG)
 ___
