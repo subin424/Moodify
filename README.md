@@ -22,7 +22,6 @@
 
 # 사용한 모델
 <https://github.com/monologg/KoELECTRA>
-
 - Koelectra 모델
 
 
