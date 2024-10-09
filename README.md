@@ -77,6 +77,8 @@ ___
 
  <https://github.com/subin424/Moodify/blob/main/Project/Model/README.md>
 
+ ![Moodify 실행 화면](https://github.com/subin424/Moodify/blob/main/Project/Model/TR3.PNG)
+
 ___
 ### 메인 코드 실행 방법
 1. 모델 경로와 카카오톡 대화 파일 경로를 설정합니다.
