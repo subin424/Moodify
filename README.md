@@ -77,11 +77,12 @@ ___
 
  <https://github.com/subin424/Moodify/blob/main/Project/Model/README.md>
 
+___
 ### 학습한 모델 파일
 
 [모델 파일 다운로드](https://drive.google.com/file/d/199GPJtUJxUdBr4tm1XawzbgkKXmv-RLh/view?usp=sharing)
 
-
+___
  ![Moodify 실행 화면](https://github.com/subin424/Moodify/blob/main/Project/Model/TR3.PNG)
 ___
 ![F1 Score 변화(2)](https://github.com/subin424/Moodify/blob/main/Project/Model/F1-score(2).PNG)
