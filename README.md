@@ -78,7 +78,7 @@ ___
  <https://github.com/subin424/Moodify/blob/main/Project/Model/README.md>
 
  ![Moodify 실행 화면](https://github.com/subin424/Moodify/blob/main/Project/Model/TR3.PNG)
- ![F1 Score 변화](https://github.com/subin424/Moodify/blob/main/Project/Model/F1-score.PNG)
+
 
 ___
 ### 메인 코드 실행 방법
