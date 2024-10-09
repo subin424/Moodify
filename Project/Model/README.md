@@ -42,7 +42,7 @@ Epoch 9, Average Loss: 0.1952853597614957
 
 Epoch 10, Average Loss: 0.18317735955204772
 
-# 훈련 데이터 2
+## 훈련 데이터 2
 
 Epoch 1, Average Loss: 0.3368552190990284
 
@@ -64,7 +64,7 @@ Epoch 9, Average Loss: 0.1952853597614957
 
 Epoch 10, Average Loss: 0.18317735955204772
 
-# 훈련 데이터 3
+## 훈련 데이터 3
 
 Epoch 1, Average Loss: 0.020370918723651512
 
@@ -86,7 +86,7 @@ Epoch 9, Average Loss: 0.0173158513846029
 
 Epoch 10, Average Loss: 0.017691063207145887
 
-# 훈련 데이터 4
+## 훈련 데이터 4
 
 Epoch 1, Average Loss: 0.019437636691725175
 
@@ -108,7 +108,7 @@ Epoch 9, Average Loss: 0.015816131340969222
 
 Epoch 10, Average Loss: 0.015312863636809771
 
-## 검증 데이터
+## 검증 데이터 1
 
 Epoch 1, Average Loss: 0.8524947265783945
 
@@ -140,7 +140,7 @@ Epoch 14, Average Loss: 0.38177803792487613
 
 Epoch 15, Average Loss: 0.36142793263512096
 
-# 검증 데이터 2
+## 검증 데이터 2
 
 Epoch 1, Average Loss: 0.015170986790547413
 
