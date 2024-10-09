@@ -78,7 +78,7 @@ ___
 최종 목표 => F1-Score 0.7 - 0.75
 
 ___
-### 모델 학습
+### 모델 학습 및 평가 결과
 ![F1 Score 변화(2)](https://github.com/subin424/Moodify/blob/main/Project/Model/F1-score(2).PNG)
  ![Moodify 실행 화면](https://github.com/subin424/Moodify/blob/main/Project/Model/TR3.PNG)
 ___
