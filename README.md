@@ -39,17 +39,17 @@
   
 - 이후 Loss : 0.1 ~ 0.2 (9/20)
 
-- 이후 F1 score 값 : 0.66(9/20)
+- 이후 F1 score 값 : 0.66 (9/20)
   
 - 현재 Loss : 0.02 ~ 0.03 (10/07)
 
-- 현재 F1 score 값 : 0.69 ~ 0.70(10/07)
+- 현재 F1 score 값 : 0.69 ~ 0.70 (10/07)
 
 
-**최종 목표** => F1-Score 0.7 
+**최종 목표** => F1-Score 0.7 - 0.75
 
 
-# 모델 학습 결과 
+# 모델 학습 Log
 
  <https://github.com/subin424/Moodify/blob/main/Project/Model/README.md>
 
