@@ -17,10 +17,12 @@
 - 총 9만개가 넘는 감정 정보 중 일부를 sample로 진행
 - 훈련 데이터와 검증 데이터 교차
 - 총 7가지의 감정
+
 (행복, 슬픔, 중립, 공포, 분노, 혐오, 놀람) 
 
 # 사용한 모델
 - Koelectra 모델
+- 
 <https://github.com/monologg/KoELECTRA>
 
 # 모델 학습
