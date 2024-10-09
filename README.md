@@ -96,6 +96,7 @@ ___
 - google-api-python-client
 - pandas
 
+___
 ### 메인 코드 실행 결과
 ![Moodify 실행 결과](https://github.com/subin424/Moodify/blob/main/Project/Moodify.png)
 ___
