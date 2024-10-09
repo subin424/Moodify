@@ -95,3 +95,8 @@ ___
 - tkinter
 - google-api-python-client
 - pandas
+
+### 메인 코드 실행 결과
+![Moodify 실행 결과](https://github.com/subin424/Moodify/blob/main/Project/Moodify.png)
+___
+![실행 결과(2)](https://github.com/subin424/Moodify/blob/main/Project/%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC.PNG)
