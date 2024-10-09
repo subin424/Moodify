@@ -1,6 +1,6 @@
-# Moodify
+# Moodify : 감정 기반 음악 추천 프로젝트
 
-"감정에 기반한 음악 추천 프로젝트"
+Moodify는 카카오톡 대화 내용을 분석하여 감정을 추출하고, 그에 맞는 음악을 유튜브에서 추천해주는 시스템입니다. KoELECTRA 모델을 사용하여 감정을 분류하고, 각 감정에 맞는 음악을 추천합니다.
 
 "자연어 처리(NIP) 활용 프로젝트"
 
@@ -50,4 +50,4 @@
  <https://github.com/subin424/Moodify/blob/main/Project/Model/README.md>
 
 # 음악 알고리즘 생성
-- ~ing
+- 모델
