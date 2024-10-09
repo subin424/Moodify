@@ -41,5 +41,9 @@
 
 ## 검증 데이터를 교차하여 진행할 것 (과적합 주의)
 
+# 모델 학습 결과 
+
+ <https://github.com/subin424/Moodify/blob/main/Project/Model/README.md>
+
 # 음악 알고리즘 생성
 - ~ing
