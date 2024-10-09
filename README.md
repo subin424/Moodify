@@ -21,9 +21,11 @@
 (행복, 슬픔, 중립, 공포, 분노, 혐오, 놀람) 
 
 # 사용한 모델
+<https://github.com/monologg/KoELECTRA>
+
 - Koelectra 모델
 
-<https://github.com/monologg/KoELECTRA>
+
 
 # 모델 학습
 
