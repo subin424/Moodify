@@ -23,7 +23,7 @@
 # 사용한 모델
 - Koelectra
 
-<https://github.com/monologg/KoELECTRA>
+- <https://github.com/monologg/KoELECTRA>
 
 # 모델 학습
 
