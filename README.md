@@ -58,6 +58,11 @@ ___
 - 검증 데이터를 교차하여 진행 (과적합 주의)
 
 ___
+### 학습한 모델 파일
+
+[모델 파일 다운로드](https://drive.google.com/file/d/199GPJtUJxUdBr4tm1XawzbgkKXmv-RLh/view?usp=sharing)
+
+___
 ### 모델 평가
 
 - 초기 Loss : 1.2 ~ 1.5 (7/03)
@@ -76,11 +81,6 @@ ___
 ### 모델 학습 Log
 
  <https://github.com/subin424/Moodify/blob/main/Project/Model/README.md>
-
-___
-### 학습한 모델 파일
-
-[모델 파일 다운로드](https://drive.google.com/file/d/199GPJtUJxUdBr4tm1XawzbgkKXmv-RLh/view?usp=sharing)
 
 ___
  ![Moodify 실행 화면](https://github.com/subin424/Moodify/blob/main/Project/Model/TR3.PNG)
