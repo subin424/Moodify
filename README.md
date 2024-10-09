@@ -78,14 +78,14 @@ ___
 *최종 목표* => F1-Score 0.7 - 0.75
 
 ___
+ ![Moodify 실행 화면](https://github.com/subin424/Moodify/blob/main/Project/Model/TR3.PNG)
+___
+![F1 Score 변화(2)](https://github.com/subin424/Moodify/blob/main/Project/Model/F1-score(2).PNG)
+___
 ### 모델 학습 Log
 
  <https://github.com/subin424/Moodify/blob/main/Project/Model/README.md>
 
-___
-
-___
-![F1 Score 변화(2)](https://github.com/subin424/Moodify/blob/main/Project/Model/F1-score(2).PNG)
 ___
 ### 메인 코드 실행 방법
 1. 모델 경로와 카카오톡 대화 파일 경로를 설정합니다.
