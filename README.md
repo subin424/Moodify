@@ -73,7 +73,7 @@ ___
   
 - 현재 Loss : 0.02 ~ 0.03 (10/07)
 - 현재 F1 score 값 : 0.69 ~ 0.70 (10/07)
-
+ ![Moodify 실행 화면](https://github.com/subin424/Moodify/blob/main/Project/Model/TR3.PNG)
 ___
 *최종 목표* => F1-Score 0.7 - 0.75
 
@@ -83,7 +83,7 @@ ___
  <https://github.com/subin424/Moodify/blob/main/Project/Model/README.md>
 
 ___
- ![Moodify 실행 화면](https://github.com/subin424/Moodify/blob/main/Project/Model/TR3.PNG)
+
 ___
 ![F1 Score 변화(2)](https://github.com/subin424/Moodify/blob/main/Project/Model/F1-score(2).PNG)
 ___
