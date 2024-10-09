@@ -78,8 +78,8 @@ ___
 최종 목표 => F1-Score 0.7 - 0.75
 
 ___
+### 모델 학습
  ![Moodify 실행 화면](https://github.com/subin424/Moodify/blob/main/Project/Model/TR3.PNG)
-___
 ![F1 Score 변화(2)](https://github.com/subin424/Moodify/blob/main/Project/Model/F1-score(2).PNG)
 ___
 ### 모델 학습 Log
