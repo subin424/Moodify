@@ -87,7 +87,7 @@ ___
  <https://github.com/subin424/Moodify/blob/main/Project/Model/README.md>
 
 ## Confusion-Matrix
-(https://github.com/subin424/Moodify/blob/main/Project/confusion_matrix1.png?raw=true)
+![혼동 행렬](https://github.com/subin424/Moodify/blob/main/Project/confusion_matrix1.png?raw=true)
 
 ___
 ## 메인 코드 실행 방법
