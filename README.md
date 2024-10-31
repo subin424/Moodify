@@ -113,3 +113,5 @@ ___
 ___
 ## 케이스 2
 ![실행 결과(3)](https://github.com/subin424/Moodify/blob/main/Project/%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC2.PNG)
+## 변경 후 시연 영상
+https://github.com/subin424/Moodify/blob/main/Project/%EC%8A%AC%ED%94%94%20playlist%20%EC%8B%9C%EC%97%B0%20%EC%98%81%EC%83%81.mp4
