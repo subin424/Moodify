@@ -10,8 +10,8 @@ def pp_text(text):
     # 공백 제거 및 이모지 제거
     clean_text = re.sub(r'\s+', ' ', text)
     clean_text = re.sub(r'[\U00010000-\U0010ffff]', '', clean_text)
-    # 특수문자 제거 추가
-    clean_text = re.sub(r'[^\w\s]', '', clean_text)
+    # 특수문자 제거 추가 
+    clean_text = re.sub(r'[^가-힣0-9\sㅋㅋㅠㅠㅜㅜㅎㅎ]+', '', clean_text)
     return clean_text.strip()
 
 def tk_text(text):
@@ -67,7 +67,7 @@ def pp_excel_file(input_file, output_file, sample_size=10000):
         stop_words = [line.strip() for line in file]
 
     # 필요한 열 선택 (B1: 'Sentence', B2: 'Emotion')
-    sampled_df = sampled_df[['Unnamed: 1', 'Unnamed: 2']]
+    sampled_df = sampled_df[['Sentence', 'Emotion']]
     sampled_df.columns = ['Sentence', 'Emotion']  # 열 이름 변경
 
     # 각 열에 대해 텍스트 전처리 적용
@@ -77,7 +77,7 @@ def pp_excel_file(input_file, output_file, sample_size=10000):
         sampled_df[col] = sampled_df[col].apply(rm_stopwords, stop_words=stop_words)  # 불용어 제거
 
     # 감정 데이터 균형 맞추기
-    balanced_df = balance_emotions(sampled_df, target_count=800)
+    balanced_df = balance_emotions(sampled_df, target_count=4000)
 
     # 빈 토큰 리스트 제거
     balanced_df = balanced_df[balanced_df['Sentence'].str.len() > 0]  # 'Sentence'에서 비어있는 리스트 제거
@@ -86,7 +86,7 @@ def pp_excel_file(input_file, output_file, sample_size=10000):
     # 전처리된 데이터를 새로운 Excel 파일로 저장
     balanced_df.to_excel(output_file, index=False)
 
-input_excel_file = 'C:/Users/Main/Desktop/dataset/연속성대화데이터.xlsx'
-output_excel_file = 'C:/Users/Main/Desktop/dataset/Dataset6.xlsx'
+input_excel_file = 'C:/Users/Main/Desktop/dataset/단발성대화데이터.xlsx'
+output_excel_file = 'C:/Users/Main/Desktop/dataset/Dataset11.xlsx'
 
-pp_excel_file(input_excel_file, output_excel_file, sample_size=40000) 
+pp_excel_file(input_excel_file, output_excel_file, sample_size=20000) 
