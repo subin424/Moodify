@@ -106,7 +106,7 @@ ___
 ![Moodify 실행 결과](https://github.com/subin424/Moodify/blob/main/Project/Moodify.png)
 
 ## 메인 코드 GUI 변경 후 실행 결과
-![Change_moodify 실행 결과](https://github.com/subin424/Moodify/blob/main/Project/Change_moodify.png)
+![Moodify 실행 결과]([https://github.com/subin424/Moodify/blob/main/Project/Change_moodify.png](https://github.com/subin424/Moodify/blob/main/Project/Change_moodify.PNG))
 ___
 ## 케이스 1 
 ![실행 결과(2)](https://github.com/subin424/Moodify/blob/main/Project/%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC.PNG)
