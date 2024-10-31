@@ -86,6 +86,9 @@ ___
 
  <https://github.com/subin424/Moodify/blob/main/Project/Model/README.md>
 
+## Confusion-Matrix
+(https://github.com/subin424/Moodify/blob/main/Project/confusion_matrix1.png?raw=true)
+
 ___
 ## 메인 코드 실행 방법
 1. 모델 경로와 카카오톡 대화 파일 경로를 설정합니다.
